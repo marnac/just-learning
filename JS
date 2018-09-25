@@ -1,5 +1,5 @@
 // Setup
 var a;
 var b = 2;
-
+var a = 9;
 // Only change code below this line
